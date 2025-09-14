@@ -1,0 +1,5 @@
+{
+  "name": "Smart Schedule Importer",
+  "description": "Upload your university course schedule and automatically generate an iCalendar (.ics) file to import into Google Calendar or any other calendar app.",
+  "requestFramePermissions": []
+}
