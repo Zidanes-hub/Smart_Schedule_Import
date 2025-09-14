@@ -1,12 +1,14 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+## About This Project
+Manually inputting a full semester's course schedule into a calendar is tedious and prone to errors. Smart Schedule Importer solves this problem by providing a user-friendly interface to automate the entire process.
 
-# Run and deploy your AI Studio app
+Key Features:
+🤖 AI-Powered Parsing: Utilizes the Gemini API to accurately understand and extract key details (course name, time, location) from schedule data.
 
-This contains everything you need to run your app locally.
+📅 Google Calendar Integration: Seamlessly connects with your Google account to add events directly to your calendar.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1qRLkmqVQDEYsePIsxpBG3o7S7sYPbV_t
+🔁 Automatic Recurring Events: Intelligently sets up weekly recurring events that last for the entire duration of the semester.
+
+⚡ Modern Tech Stack: Built with React, Vite, and TypeScript for a fast, responsive, and type-safe user experience.
 
 ## Run Locally
 
